@@ -1,3 +1,4 @@
+# to run thia program, make sure that chrome without net on and ready with dinosaur game (available offline)
 import pyautogui  # pip install pyautogui
 from PIL import Image, ImageGrab  # pip install pillow
 # from numpy import asarray
